@@ -1,0 +1,16 @@
+.landing_page__navbar{
+    @apply flex flex-row justify-around pt-[0.5rem] pb-[1rem] items-center
+}
+
+.landing_page__navbar_menu{
+    @apply flex flex-row space-x-[2rem] text-[#5F88A2] 
+}
+
+.landing_page__navbar_menu p{
+    @apply hover:text-[#195CA3] font-bold text-[14px]
+}
+
+
+.landing_page__navbar_button{
+    @apply text-white bg-[#F2223B] px-[1.5rem] py-[0.8rem] rounded-sm
+}

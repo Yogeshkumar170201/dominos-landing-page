@@ -1,0 +1,15 @@
+.landing_page__header{
+    @apply bg-[#195CA3] flex flex-row justify-between
+}
+
+.landing_page__header_title{
+    @apply flex flex-col justify-end pl-[5rem] pb-[1rem]
+}
+
+.landing_page__header_title_btn{
+    @apply bg-[#1EB21A] text-white font-extrabold h-[4rem] rounded-sm flex flex-row justify-center items-center mb-[1rem]
+}
+
+.landing_page__header_title_text{
+    @apply mb-[1rem]
+}

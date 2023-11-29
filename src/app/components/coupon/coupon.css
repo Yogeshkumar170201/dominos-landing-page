@@ -1,0 +1,23 @@
+.landing_page__coupon{
+    @apply mt-[1rem] flex flex-col
+}
+
+.landing_page__coupon_home{
+    @apply bg-[#EEEEEE]
+}
+
+.landing_page__coupon_home p{
+    @apply text-[#0175D8] pl-[1rem] py-[0.5rem] hover:text-[#195CA3] hover:underline
+}
+
+.landing_page__coupon_carousel{
+    @apply pl-[4rem] flex flex-col
+}
+
+.landing_page__coupon_carousel p{
+    @apply text-[1.7rem] font-bold mt-[2rem]
+}
+
+.landing_page__coupon_carousel_image{
+    @apply ml-[1rem]
+}

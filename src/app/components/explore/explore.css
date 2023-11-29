@@ -1,0 +1,27 @@
+.landing_page__explore{
+    @apply mt-[3rem] flex flex-col pl-[4rem] pr-[4rem]
+}
+
+.landing_page__explore_title{
+    @apply text-[#708AA4] text-[1.7rem] font-bold
+}
+
+.landing_page__explore_cards{
+    @apply flex flex-row justify-around mt-[2rem]
+}
+
+.landing_page__explore_card{
+    @apply flex flex-col border-dotted border-[#919497] border-[0.1rem] p-[1rem] w-[24rem] items-center h-[18rem]
+}
+
+.landing_page__explore_card_title{
+    @apply mt-[1rem] text-[#2B4446] font-extrabold text-[1.2rem]
+}
+
+.landing_page__explore_card_description{
+    @apply mt-[1.3rem] text-[#2B4446] text-center text-[0.9rem]
+}
+
+.landing_page__explore_card_btn{
+    @apply border-dotted border-[#919497] border-b-[0.1rem] border-x-[0.1rem] w-[100%] p-[1rem] text-[#DE032D] text-center font-extrabold
+}

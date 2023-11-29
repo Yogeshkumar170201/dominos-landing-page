@@ -1,0 +1,30 @@
+.landing_page__content{
+    @apply flex flex-col space-y-[3rem] mt-[5rem] pl-[2rem]
+}
+
+.landing_page__content_heading{
+    @apply text-[#006391] font-extrabold text-[2rem] mb-[1rem]
+}
+.landing_page__content1{
+    @apply flex flex-col space-y-[1rem]
+}
+
+.landing_page__content2{
+    @apply flex flex-col space-y-[1rem]
+}
+
+.landing_page__content3{
+    @apply flex flex-col space-y-[1rem]
+}
+
+.landing_page__content4{
+    @apply flex flex-col space-y-[1rem]
+}
+
+.landing_page__content{
+    @apply flex flex-col space-y-[1rem]
+}
+
+.landing_page__content_body{
+    @apply text-[#53565B]
+}

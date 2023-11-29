@@ -1,0 +1,15 @@
+.landing_page__download{
+    @apply flex flex-row mt-[5rem] bg-[#F2F5FB] justify-center space-x-[10rem]
+}
+
+.landing_page__download_image{
+    @apply w-[40rem]
+}
+
+.landing_page__download_links{
+    @apply flex flex-col justify-center w-[30rem] space-y-[2rem]
+}
+
+.landing_page__download_links_images{
+    @apply flex flex-row space-x-3
+}

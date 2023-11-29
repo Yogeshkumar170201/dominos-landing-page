@@ -1,0 +1,7 @@
+.landing_page__footer{
+    @apply flex flex-col mt-[1.5rem]
+}
+
+.landing_page__footer_main{
+    @apply flex flex-row justify-around bg-[#212E3A] pt-[5rem] pb-[3rem]
+}
